@@ -21,4 +21,4 @@ You'll learn how to:
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Edge-AI-Tutorials/blob/master/images/jetson-jetbot-illustration.png" width="600"></p>](https://github.com/NVIDIA-AI-IOT/jetbot)
 
 ## Real-Time Object Detection on Raspberry Pi Using OpenCV DNN
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Edge-AI-Tutorials/blob/master/images/raspi_onxx.png" width="600"></p>] (https://heartbeat.fritz.ai/real-time-object-detection-on-raspberry-pi-using-opencv-dnn-98827255fa60)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Edge-AI-Tutorials/blob/master/images/raspi_onxx.png" width="200"></p>](https://heartbeat.fritz.ai/real-time-object-detection-on-raspberry-pi-using-opencv-dnn-98827255fa60)
