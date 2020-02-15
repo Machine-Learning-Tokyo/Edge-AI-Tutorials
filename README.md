@@ -17,3 +17,8 @@ You'll learn how to:
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Edge-AI-Tutorials/blob/master/images/jetson_tutorial.png" width="600"></p>](https://www.youtube.com/watch?v=bcM5AQSAzUY)
 
+## JetBot is an open-source robot based on NVIDIA Jetson Nano
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Edge-AI-Tutorials/blob/master/images/jetson-jetbot-illustration.png" width="600"></p>](https://github.com/NVIDIA-AI-IOT/jetbot)
+
+## Real-Time Object Detection on Raspberry Pi Using OpenCV DNN
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Edge-AI-Tutorials/blob/master/images/raspi_onxx.png" width="600"></p>] (https://heartbeat.fritz.ai/real-time-object-detection-on-raspberry-pi-using-opencv-dnn-98827255fa60)
